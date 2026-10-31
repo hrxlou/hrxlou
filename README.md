@@ -24,4 +24,4 @@
 | [PetRoad](https://github.com/PetRoad) | 반려견 산책 경로 기록 및 공유 앱 (백엔드 보안 개선, 서버 구축 및 자동 배포) |
 | [LOCAL](https://github.com/SW-odyssey) | 유동인구 데이터를 활용한 장소 추천 웹앱 (프로젝트 총괄, UI/UX 설계) |
 
-[hrxlou.com](https://hrxlou.com) &nbsp; / &nbsp; [Contact](mailto:hyunkim@hrxlou.com)
+[hrxlou.com](https://hrxlou.com)
