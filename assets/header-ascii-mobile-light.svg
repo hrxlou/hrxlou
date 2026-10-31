@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="500" viewBox="0 0 600 500" role="img" aria-labelledby="title desc">
 <title id="title">hrxlou · Hyun Kim</title>
-<desc id="desc">Dot-matrix lettering and a Möbius ribbon drawn entirely with ASCII characters.</desc>
+<desc id="desc">Dot-matrix lettering and a Möbius ribbon drawn entirely with ASCII characters. Static version for reduced motion.</desc>
 <rect width="600" height="500" fill="#ffffff"/>
-<g id="identity" transform="translate(0 -70)">
+<g transform="translate(0 -70)">
 <circle cx="52.0" cy="115.0" r="2.05" fill="#1f2328"/>
 <circle cx="52.0" cy="121.3" r="2.05" fill="#1f2328"/>
 <circle cx="52.0" cy="127.6" r="2.05" fill="#1f2328"/>
@@ -70,24 +70,17 @@
 <circle cx="284.6" cy="152.8" r="2.05" fill="#1f2328"/>
 <circle cx="297.2" cy="152.8" r="2.05" fill="#1f2328"/>
 <text x="50" y="220" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="26">Hyun Kim</text>
-</g><g id="artwork" transform="translate(-385 195) scale(.85)">
-<text x="700.1" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="707.2" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="714.3" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="721.4" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="728.5" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+</g>
+<g transform="translate(-385 195) scale(.85)">
 <text x="735.6" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="742.7" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="749.8" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="756.9" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
+<text x="749.8" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
+<text x="756.9" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="764.0" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="771.1" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="778.2" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="785.3" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
-<text x="792.4" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
-<text x="799.5" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
-<text x="806.6" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
-<text x="650.4" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="792.4" y="80.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="657.5" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="664.6" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="671.7" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
@@ -98,7 +91,7 @@
 <text x="707.2" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="714.3" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="721.4" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="728.5" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
+<text x="728.5" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="735.6" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="742.7" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="749.8" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
@@ -110,10 +103,8 @@
 <text x="792.4" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="799.5" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="806.6" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="813.7" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="820.8" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="827.9" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
-<text x="622.0" y="96.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="813.7" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
+<text x="820.8" y="88.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="629.1" y="96.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="636.2" y="96.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="643.3" y="96.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
@@ -126,6 +117,9 @@
 <text x="693.0" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="700.1" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="707.2" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="714.3" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="792.4" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
+<text x="799.5" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="806.6" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="813.7" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="820.8" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
@@ -133,31 +127,27 @@
 <text x="835.0" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="842.1" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="849.2" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="856.3" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="863.4" y="96.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="607.8" y="105.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="614.9" y="105.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="622.0" y="105.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="629.1" y="105.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="636.2" y="105.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="636.2" y="105.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="643.3" y="105.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="650.4" y="105.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="657.5" y="105.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="664.6" y="105.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="664.6" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="671.7" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="678.8" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="685.9" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="693.0" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="700.1" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="835.0" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
+<text x="827.9" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
+<text x="835.0" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="842.1" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="849.2" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="856.3" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="863.4" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="870.5" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="877.6" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="884.7" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="891.8" y="105.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="600.7" y="113.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="607.8" y="113.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="614.9" y="113.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
@@ -172,15 +162,15 @@
 <text x="678.8" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="685.9" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="693.0" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="849.2" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="856.3" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
-<text x="863.4" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
+<text x="863.4" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="870.5" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="877.6" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="884.7" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="891.8" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="898.9" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="906.0" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="913.1" y="113.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="593.6" y="121.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="600.7" y="121.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="607.8" y="121.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
@@ -196,6 +186,7 @@
 <text x="678.8" y="121.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="685.9" y="121.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="693.0" y="121.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="863.4" y="121.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="870.5" y="121.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="877.6" y="121.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="884.7" y="121.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
@@ -225,7 +216,7 @@
 <text x="877.6" y="129.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="884.7" y="129.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="891.8" y="129.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
-<text x="898.9" y="129.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
+<text x="898.9" y="129.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="906.0" y="129.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="913.1" y="129.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="920.2" y="129.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
@@ -263,7 +254,6 @@
 <text x="955.7" y="137.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="962.8" y="137.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="969.9" y="137.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="977.0" y="137.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="586.5" y="146.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="593.6" y="146.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="600.7" y="146.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
@@ -272,7 +262,7 @@
 <text x="622.0" y="146.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="629.1" y="146.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="636.2" y="146.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="643.3" y="146.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="643.3" y="146.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="650.4" y="146.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="657.5" y="146.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="664.6" y="146.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
@@ -294,7 +284,6 @@
 <text x="969.9" y="146.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="977.0" y="146.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="984.1" y="146.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="991.2" y="146.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="586.5" y="154.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="593.6" y="154.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="600.7" y="154.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
@@ -363,14 +352,13 @@
 <text x="998.3" y="162.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="1005.4" y="162.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="1012.5" y="162.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
-<text x="1019.6" y="162.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="586.5" y="170.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="593.6" y="170.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="600.7" y="170.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="607.8" y="170.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="614.9" y="170.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="622.0" y="170.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="629.1" y="170.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="629.1" y="170.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="636.2" y="170.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="643.3" y="170.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="650.4" y="170.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
@@ -382,7 +370,7 @@
 <text x="693.0" y="170.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="700.1" y="170.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="707.2" y="170.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
-<text x="898.9" y="170.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
+<text x="898.9" y="170.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="906.0" y="170.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="913.1" y="170.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
 <text x="920.2" y="170.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
@@ -440,9 +428,8 @@
 <text x="1026.7" y="178.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1033.8" y="178.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1040.9" y="178.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="593.6" y="187.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="600.7" y="187.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="607.8" y="187.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="607.8" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="614.9" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="622.0" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="629.1" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
@@ -458,7 +445,7 @@
 <text x="700.1" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="707.2" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="714.3" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
-<text x="721.4" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
+<text x="721.4" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="891.8" y="187.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="898.9" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="906.0" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
@@ -482,7 +469,6 @@
 <text x="1033.8" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1040.9" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1048.0" y="187.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="600.7" y="195.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="607.8" y="195.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="614.9" y="195.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="622.0" y="195.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
@@ -506,7 +492,7 @@
 <text x="898.9" y="195.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="906.0" y="195.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="913.1" y="195.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="920.2" y="195.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="920.2" y="195.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="927.3" y="195.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="934.4" y="195.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="941.5" y="195.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
@@ -590,11 +576,12 @@
 <text x="735.6" y="211.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="742.7" y="211.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="749.8" y="211.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
+<text x="756.9" y="211.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="877.6" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="884.7" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="891.8" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="898.9" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
-<text x="906.0" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="906.0" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="913.1" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="920.2" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="927.3" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
@@ -606,11 +593,11 @@
 <text x="969.9" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="977.0" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="984.1" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="991.2" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="991.2" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="998.3" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1005.4" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1012.5" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="1019.6" y="211.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="1019.6" y="211.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1026.7" y="211.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1033.8" y="211.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1040.9" y="211.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
@@ -618,7 +605,7 @@
 <text x="1055.1" y="211.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1062.2" y="211.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1069.3" y="211.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="636.2" y="219.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
+<text x="636.2" y="219.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="643.3" y="219.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="650.4" y="219.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="657.5" y="219.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
@@ -646,7 +633,7 @@
 <text x="913.1" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="920.2" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="927.3" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
-<text x="934.4" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="934.4" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="941.5" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="948.6" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="955.7" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
@@ -658,12 +645,12 @@
 <text x="998.3" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1005.4" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1012.5" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="1019.6" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="1019.6" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1026.7" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1033.8" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1040.9" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1048.0" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="1055.1" y="219.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="1055.1" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1062.2" y="219.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1069.3" y="219.8" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="1076.4" y="219.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
@@ -671,7 +658,7 @@
 <text x="657.5" y="228.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="664.6" y="228.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="671.7" y="228.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
-<text x="678.8" y="228.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
+<text x="678.8" y="228.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="685.9" y="228.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="693.0" y="228.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="700.1" y="228.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
@@ -686,6 +673,7 @@
 <text x="764.0" y="228.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="771.1" y="228.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="778.2" y="228.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
+<text x="856.3" y="228.0" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="863.4" y="228.0" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="870.5" y="228.0" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="877.6" y="228.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
@@ -699,7 +687,7 @@
 <text x="934.4" y="228.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="941.5" y="228.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="948.6" y="228.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
-<text x="955.7" y="228.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="955.7" y="228.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="962.8" y="228.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="969.9" y="228.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="977.0" y="228.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
@@ -726,7 +714,7 @@
 <text x="707.2" y="236.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="714.3" y="236.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="721.4" y="236.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
-<text x="728.5" y="236.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
+<text x="728.5" y="236.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="735.6" y="236.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="742.7" y="236.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="749.8" y="236.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
@@ -736,6 +724,7 @@
 <text x="778.2" y="236.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="785.3" y="236.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="792.4" y="236.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
+<text x="842.1" y="236.2" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="849.2" y="236.2" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="856.3" y="236.2" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="863.4" y="236.2" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
@@ -769,13 +758,12 @@
 <text x="1062.2" y="236.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1069.3" y="236.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1076.4" y="236.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="685.9" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="693.0" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="700.1" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">:</text>
 <text x="707.2" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="714.3" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
-<text x="721.4" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
-<text x="728.5" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
+<text x="721.4" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
+<text x="728.5" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="735.6" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="742.7" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="749.8" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
@@ -784,9 +772,11 @@
 <text x="771.1" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="778.2" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="785.3" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
-<text x="792.4" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
-<text x="799.5" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
+<text x="792.4" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
+<text x="799.5" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="806.6" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
+<text x="813.7" y="244.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
+<text x="820.8" y="244.4" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="827.9" y="244.4" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="835.0" y="244.4" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="842.1" y="244.4" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
@@ -823,7 +813,6 @@
 <text x="1062.2" y="244.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1069.3" y="244.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1076.4" y="244.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="714.3" y="252.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">;</text>
 <text x="721.4" y="252.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="728.5" y="252.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">=</text>
 <text x="735.6" y="252.6" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
@@ -838,20 +827,20 @@
 <text x="799.5" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="806.6" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="813.7" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
-<text x="820.8" y="252.6" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
-<text x="827.9" y="252.6" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
-<text x="835.0" y="252.6" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
-<text x="842.1" y="252.6" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
-<text x="849.2" y="252.6" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
-<text x="856.3" y="252.6" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
-<text x="863.4" y="252.6" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
-<text x="870.5" y="252.6" fill="#0969da" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
+<text x="820.8" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
+<text x="827.9" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
+<text x="835.0" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
+<text x="842.1" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
+<text x="849.2" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
+<text x="856.3" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
+<text x="863.4" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
+<text x="870.5" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="877.6" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="884.7" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="891.8" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="898.9" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
 <text x="906.0" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
-<text x="913.1" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">#</text>
+<text x="913.1" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="920.2" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="927.3" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="934.4" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
@@ -875,11 +864,9 @@
 <text x="1062.2" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1069.3" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1076.4" y="252.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="792.4" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="799.5" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="806.6" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="813.7" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
-<text x="820.8" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
+<text x="806.6" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="813.7" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="820.8" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="827.9" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="835.0" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="842.1" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
@@ -906,7 +893,7 @@
 <text x="991.2" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="998.3" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="1005.4" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
-<text x="1012.5" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="1012.5" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="1019.6" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1026.7" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1033.8" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
@@ -916,12 +903,11 @@
 <text x="1062.2" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1069.3" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1076.4" y="260.8" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="842.1" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="849.2" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="849.2" y="269.0" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="856.3" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="863.4" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="870.5" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
-<text x="877.6" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
+<text x="870.5" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="877.6" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="884.7" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="891.8" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="898.9" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
@@ -949,16 +935,15 @@
 <text x="1055.1" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1062.2" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1069.3" y="269.0" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="870.5" y="277.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="877.6" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="884.7" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="877.6" y="277.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">+</text>
+<text x="884.7" y="277.2" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="891.8" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="898.9" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="906.0" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="913.1" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="920.2" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
-<text x="927.3" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
-<text x="934.4" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
+<text x="920.2" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="927.3" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="934.4" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="941.5" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="948.6" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
 <text x="955.7" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">O</text>
@@ -976,10 +961,8 @@
 <text x="1040.9" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1048.0" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1055.1" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="1062.2" y="277.2" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="906.0" y="285.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
-<text x="913.1" y="285.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="920.2" y="285.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
+<text x="913.1" y="285.4" fill="#656d76" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
+<text x="920.2" y="285.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">*</text>
 <text x="927.3" y="285.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="934.4" y="285.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="941.5" y="285.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
@@ -997,16 +980,6 @@
 <text x="1026.7" y="285.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1033.8" y="285.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
 <text x="1040.9" y="285.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="1048.0" y="285.4" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="948.6" y="293.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="955.7" y="293.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="962.8" y="293.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="969.9" y="293.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="977.0" y="293.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="984.1" y="293.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="991.2" y="293.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="998.3" y="293.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="1005.4" y="293.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-<text x="1012.5" y="293.6" fill="#1f2328" font-family="Menlo,Consolas,monospace" font-size="11.5">o</text>
-</g><path d="M50 490H550" stroke="#d8dee4"/>
+</g>
+<path d="M50 490H550" stroke="#d8dee4"/>
 </svg>
