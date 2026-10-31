@@ -14,9 +14,6 @@
 
 한성대학교 컴퓨터공학부 3학년입니다. 다양한 웹과 앱을 만들며, 풀스택 개발자를 목표로 공부하고 있습니다.
 
-- **수상** · 한성공학경진대회 동상
-- **개인 기록** · [개발 기록](https://hrxlou.com/log)과 [사진·영상 작업](https://hrxlou.com/gallery)
-
 ### Selected projects
 
 | Project | Work |
