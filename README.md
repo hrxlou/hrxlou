@@ -7,7 +7,7 @@
   <source media="(max-width: 600px)" srcset="assets/header-ascii-mobile-light.gif">
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-ascii-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-ascii-light.gif">
-  <img alt="hrxlou · Hyun Kim — dot lettering and slowly rotating ASCII art" src="assets/header-ascii-light.gif" width="100%">
+  <img alt="hrxlou Hyun Kim ASCII animation" src="assets/header-ascii-light.gif" width="100%">
 </picture>
 
 ### About
@@ -21,5 +21,7 @@
 | [CodexHub](https://github.com/hrxlou/CodexHub) | Codex 계정과 사용량을 관리하는 macOS 앱 |
 | [Routee](https://github.com/Routex-labs/Routee) | 실내/외 통합 경로 안내 앱 (UI/UX 설계, 센서 데이터 분석 및 활용) |
 | [OpenSimCity](https://github.com/hrxlou/OpenSimCity) | Unity, C#으로 개발 중인 2.5D 도시 시뮬레이션 게임 |
+| [PetRoad](https://github.com/PetRoad) | 반려견 산책 경로 기록 및 공유 앱 (백엔드 보안 개선, 서버 구축 및 자동 배포) |
+| [LOCAL](https://github.com/SW-odyssey) | 유동인구 데이터를 활용한 장소 추천 웹앱 (프로젝트 총괄, UI/UX 설계) |
 
 [hrxlou.com](https://hrxlou.com) &nbsp; / &nbsp; [Contact](mailto:hyunkim@hrxlou.com)
