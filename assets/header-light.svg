@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Hyun Kim — Frontend developer</title>
+  <desc id="desc">A simple typographic banner with a small blue interface illustration.</desc>
+  <rect width="1200" height="340" fill="#F6F7F9"/>
+  <path d="M48 48H1152" stroke="#DDE1E7"/>
+  <circle cx="56" cy="79" r="4" fill="#4C6FFF"/>
+  <text x="72" y="84" fill="#616975" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" letter-spacing="3">FRONTEND DEVELOPER</text>
+  <text x="46" y="215" fill="#1C2027" font-family="Georgia, 'Times New Roman', serif" font-size="110" letter-spacing="-5">Hyun Kim</text>
+  <text x="50" y="283" fill="#616975" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18">Web interfaces &amp; macOS tools</text>
+  <g transform="translate(870 109)">
+    <rect x="36" y="0" width="210" height="142" rx="8" stroke="#CCD3DF"/>
+    <rect x="18" y="18" width="210" height="142" rx="8" fill="#EEF1F7" stroke="#BBC6DC"/>
+    <rect y="36" width="210" height="142" rx="8" fill="#FDFDFF" stroke="#4C6FFF"/>
+    <path d="M0 68H210" stroke="#DCE3F2"/>
+    <circle cx="16" cy="52" r="3" fill="#4C6FFF"/>
+    <circle cx="27" cy="52" r="3" fill="#CBD3E4"/>
+    <circle cx="38" cy="52" r="3" fill="#CBD3E4"/>
+    <path d="M22 91H81M22 107H126M22 123H104" stroke="#D4DDEE" stroke-width="6" stroke-linecap="round"/>
+    <path d="M22 151H61" stroke="#4C6FFF" stroke-width="6" stroke-linecap="round"/>
+    <path d="M165 132L173 140L189 120" stroke="#4C6FFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
