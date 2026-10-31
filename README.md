@@ -1,6 +1,12 @@
-## Hyun Kim
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/header-ascii-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/header-ascii-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-ascii-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-ascii-light.svg">
+  <img alt="hrxlou · Hyun Kim — dot lettering and ASCII art" src="assets/header-ascii-light.svg" width="100%">
+</picture>
 
-프론트엔드 개발자. 웹과 macOS 도구를 만듭니다.
+무엇이든 만들고, 고치면서 배웁니다.
 
 [hrxlou.com](https://hrxlou.com) &nbsp; / &nbsp; [Contact](mailto:hyunkim@hrxlou.com)
 
